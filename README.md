@@ -29,5 +29,4 @@ Demo with Spring Boot APIs
 
 🎯 [MockLab - WireMock in the Cloud]
 
-🎯 [Course Plan]
  
