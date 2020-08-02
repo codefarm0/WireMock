@@ -3,7 +3,7 @@ Getting Started with WireMock : Simulator for HTTP-based APIs
 Production like simulation during integration testing
 Demo with Spring Boot APIs
 
-🎯 [Detailed Course Plan of WireMock]
+🎯 [Detailed Course Plan of WireMock](https://youtu.be/VouscOgOmZE)
 
 🎯 [WireMock - What/Why? Major Features of WireMock and Usecases to cover]
 
