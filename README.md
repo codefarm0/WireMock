@@ -1,14 +1,32 @@
 # WireMock
 Getting Started with WireMock : Simulator for HTTP-based APIs
+Production like simulation during integration testing
+Demo with Spring Boot APIs
 
-🎯 [Course Plan]
+🎯 [Detailed Course Plan of WireMock]
 
-🎯 WireMock - An Introduction, Major features and Usecases to cover
+🎯 [WireMock - What/Why? Major Features of WireMock and Usecases to cover]
 
-🎯 
+🎯 [Stubbing with WireMock]
 
-🎯 [Course Plan]
+🎯 [Verification with WireMock]
 
-🎯 [Course Plan]
+🎯 [Request Matching with WireMock]
 
-🎯 [Course Plan]
+🎯 [Running WireMock as standalone server]
+
+🎯 [Request Proxying]
+
+🎯 [Request Recording]
+
+🎯 [Fault simulation with WireMock]
+
+🎯 [HTTPS with WireMock]
+
+🎯 [Stateful behavior of WireMock]
+
+🎯 [Response templating with WireMock]
+
+🎯 [MockLab - WireMock in the Cloud]
+
+ 
