@@ -5,7 +5,7 @@ Demo with Spring Boot APIs
 
 🎯 [Detailed Course Plan of WireMock](https://youtu.be/VouscOgOmZE)
 
-🎯 [WireMock - What/Why? Major Features of WireMock and Usecases to cover]
+🎯 [WireMock - What/Why? Major Features of WireMock and Usecases to cover](https://youtu.be/xJs-KuEL-co)
 
 🎯 [Stubbing with WireMock]
 
