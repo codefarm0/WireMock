@@ -17,7 +17,7 @@ public class PaymentProcessorGateway {
     }
 
     public PaymentProcessorResponse makePayment(String creditCardNumber, LocalDate creditCardExpiry, Double amount) {
-        final PaymentProcessorResponseRequest request = new PaymentProcessorResponseRequest(creditCardNumber, creditCardExpiry, amount);
+            final PaymentProcessorResponseRequest request = new PaymentProcessorResponseRequest(creditCardNumber, creditCardExpiry, amount);
         return restTemplate.postForObject(baseUrl + "/payments", request, PaymentProcessorResponse.class);
     }
 

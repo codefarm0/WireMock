@@ -39,11 +39,13 @@ public class TicketBookingService {
     }
 
     public PaymentUpdateResponse updatePaymentDetails(final TicketBookingPaymentRequest bookingPayment) {
-
-        paymentProcessorGateway.updatePayment(bookingPayment.getBookingId());
-
         PaymentUpdateResponse paymentUpdateResponse = new PaymentUpdateResponse();
-        paymentUpdateResponse.setStatus("SUCCESS");
+        try {
+            paymentProcessorGateway.updatePayment(bookingPayment.getBookingId());
+            paymentUpdateResponse.setStatus("SUCCESS");
+        }catch (Exception e){
+            paymentUpdateResponse.setStatus("REJECTED");
+        }
 
         return paymentUpdateResponse;
     }
