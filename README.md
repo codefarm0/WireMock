@@ -9,7 +9,7 @@ Demo with Spring Boot APIs
 
 🎯 [Stubbing with WireMock](https://youtu.be/4Rp2Xw-5_aI)
 
-🎯 [Verification with WireMock]
+🎯 [Verification with WireMock](https://youtu.be/akHae3jXDyQ)
 
 🎯 [Request Matching with WireMock]
 
