@@ -11,8 +11,6 @@ Demo with Spring Boot APIs
 
 🎯 [Verification with WireMock](https://youtu.be/akHae3jXDyQ)
 
-🎯 [Request Matching with WireMock]
-
 🎯 [Running WireMock as standalone server]
 
 🎯 [Request Proxying]
