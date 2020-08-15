@@ -11,11 +11,11 @@ Demo with Spring Boot APIs
 
 🎯 [Verification with WireMock](https://youtu.be/akHae3jXDyQ)
 
-🎯 [Running WireMock as standalone server]
+🎯 [Running WireMock as standalone server](https://youtu.be/_hAns6gzk8A)
+
+🎯 [Request Recording with wiremock and making stubbing extremely simple and easy]
 
 🎯 [Request Proxying]
-
-🎯 [Request Recording]
 
 🎯 [Fault simulation with WireMock]
 
