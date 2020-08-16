@@ -7,26 +7,28 @@ Demo with Spring Boot APIs
 
 🎯 [WireMock - What/Why? Major Features of WireMock and Usecases to cover](https://youtu.be/xJs-KuEL-co)
 
-🎯 [Stubbing with WireMock]
+🎯 [Stubbing with WireMock](https://youtu.be/4Rp2Xw-5_aI)
 
-🎯 [Verification with WireMock]
+🎯 [Verification with WireMock](https://youtu.be/akHae3jXDyQ)
 
-🎯 [Request Matching with WireMock]
+🎯 [Running WireMock as standalone server](https://youtu.be/_hAns6gzk8A)
 
-🎯 [Running WireMock as standalone server]
+🎯 [Request Recording with wiremock and making stubbing extremely simple and easy]
 
-🎯 [Request Proxying]
-
-🎯 [Request Recording]
+🎯 [Selective Proxying]
 
 🎯 [Fault simulation with WireMock]
 
-🎯 [HTTPS with WireMock]
+🎯 [Timeout & Delay simulation with WireMock]
 
 🎯 [Stateful behavior of WireMock]
 
 🎯 [Response templating with WireMock]
 
 🎯 [MockLab - WireMock in the Cloud]
+
+🎯 [HTTPS with WireMock]
+
+
 
  
