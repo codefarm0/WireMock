@@ -15,7 +15,7 @@ Demo with Spring Boot APIs
 
 🎯 [Request Recording with wiremock and making stubbing extremely simple and easy]
 
-🎯 [Request Proxying]
+🎯 [Selective Proxying]
 
 🎯 [Fault simulation with WireMock]
 
