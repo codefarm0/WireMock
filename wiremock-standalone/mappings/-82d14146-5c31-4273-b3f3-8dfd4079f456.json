@@ -1,0 +1,27 @@
+{
+  "id" : "82d14146-5c31-4273-b3f3-8dfd4079f456",
+  "name" : "",
+  "request" : {
+    "url" : "/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 304,
+    "headers" : {
+      "Date" : "Sun, 09 Aug 2020 14:56:03 GMT",
+      "Set-Cookie" : "__cfduid=df02c79f0d79c3af268ccb691ac4afabc1596984963; expires=Tue, 08-Sep-20 14:56:03 GMT; path=/; domain=.www.pluralsight.com; HttpOnly; SameSite=Lax; Secure",
+      "ETag" : "\"259bc-5ac72f7c951db\"",
+      "Expires" : "Sun, 09 Aug 2020 15:11:03 GMT",
+      "Cache-Control" : "max-age=900, s-maxage=86400",
+      "Vary" : "Host,User-Agent",
+      "CF-Cache-Status" : "DYNAMIC",
+      "cf-request-id" : "047551c80f000069917b8a8200000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "5c0252534c776991-BOM"
+    }
+  },
+  "uuid" : "82d14146-5c31-4273-b3f3-8dfd4079f456",
+  "persistent" : true,
+  "insertionIndex" : 7
+}

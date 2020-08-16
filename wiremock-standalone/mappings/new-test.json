@@ -1,0 +1,14 @@
+
+{
+    "request": {
+        "method": "GET",
+        "url": "/paymentDetails/3333"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+				"paymentId" : "3333",
+				"paymentResponseStatus" : "SUCCESS"
+			}
+    }
+}

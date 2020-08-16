@@ -1,0 +1,23 @@
+{
+  "id" : "84f5df0b-cce1-41fb-a5f9-f24387d594af",
+  "name" : "fraudcheck_1111-1111-1111-111",
+  "request" : {
+    "url" : "/fraudCheck/1111-1111-1111-111",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"blacklisted\":false}",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "Date" : "Sun, 09 Aug 2020 15:20:41 GMT",
+      "Keep-Alive" : "timeout=60"
+    }
+  },
+  "uuid" : "84f5df0b-cce1-41fb-a5f9-f24387d594af",
+  "persistent" : true,
+  "scenarioName" : "scenario-1-fraudCheck-1111-1111-1111-111",
+  "requiredScenarioState" : "Started",
+  "newScenarioState" : "scenario-1-fraudCheck-1111-1111-1111-111-2",
+  "insertionIndex" : 9
+}

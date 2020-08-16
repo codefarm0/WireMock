@@ -1,0 +1,38 @@
+{
+  "id" : "319ae123-d00b-4753-b587-337cc027a1d5",
+  "name" : "etc_clientlibs_pluralsight_main_images_skill_logo_whitepng",
+  "request" : {
+    "url" : "/etc/clientlibs/pluralsight/main/images/Skill_logo_white.png",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "iVBORw0KGgoAAAANSUhEUgAAAZ8AAABJCAYAAADi8isSAAAO60lEQVR42u3daXabSBAAYI7AEfReJpPdxrskOwmJs1qSLduxs0xmhmRm/usIfQQdgSPoCByBI3ABlbhBzyNCNrJYGuiGblS8Vz9tC5nqD7qbKm167z8yvfcfnd77dx6/BfHPPO4v4uc8fg/ix208sJbj4d+38eiv5Xj8ZyS+0+mTRfwxj6eL+Eanz+YBz77OY2MRX+axGcTn2zCCuJ7HVhBXt7H9aTl2LiNxQWE3EnvnkRhS2F/EGaGUahgYGBgYfEKb45MEz08F4LnmAM95GjyIDwYGBgZ/fP4lc3QKwvMwDZ4/0+F5WgIeozJ4KBwgPhgYGBh88fltgQ/CkwAP4oOBgYEhBh8Z4fnCAZ7LZXh2C8FD4eAU8cHAwMDgi88/JBOeBz+S13cKw/NNAXhO59FeG3x0SqnJEAYmDwYG5nl5fBCeNHiaik+LUjqilNqUUocWP4KfnVBKg+9oGP7eOhLFrDChDM6fKe3z8f5begXno9d8bTftfMrmucUhz93w57nluTa9H+AjAJ4nJeDZzILnKhmeHe7wUGgPSIPAGVNKPSr28MK/M+TwmU3On83hMLCJPMw7f88R/Pur+htVRtPOp0iek4ry3C6a59r0/s9bfJbWd4rC810BeIar8BwkwtMEfEwBCcl6+OEFajQAH11wQo9qGkgRn2bgY4azEHXmuZkfH4QnCR4KHWXxadWITtKju6UwPiIT265xIEV81ManVSM6SU9EVjY+v/8k8sDzWUZ4KHT6KuJjhXcjMh5ejoSWBZ+RYJR1xAfxaWCeWyn4/CBs8LBWLWCAZ6MEPNtX7OVydpPWd3LBoyI+NlXjcBgWLmXAR+Q6j5+xoI34ID5JMVY5z2/xEQxPoTptlcMziIOHQlcpfFSBJzr4jiTGR/Q6jyHBQIr4qIePanm+sqY5xwfhSYOHQrdHEB7hx0RSfESumVmSDKSIj1r4qJznzuJJX5s+sEj5AqHf+VamNkpUpuYPjyr4jKjahyMhPqSGDQaID+KTtcaj8uHePvlE8WluS4RseDqJ8KiAT0vxCzJt3aMufMwqEhDxQXxy5rmveJ63VvHhD4/fEHgoHEqPj6M4PqZkaz66wCT3c74xj/ggPk2YbqN3X0ad4yPmiceEja8ENr76YnvxiIbnJAiZ8TEVvyDHEu52E4m5IeFAivjIj4/qsxv26m63h38TQZWpf/3DYOOLDhtf7JpbIqTA08+CR3Z8VL4bcmvA1alxnceSdCBFfOTHR+U89+Ke9m/x4d+LZ+kfBpufDdj87CgIj8z46IrP/xqS4TOUYIMB4oP4xIXKaz1G/EumAT5ievHE/sPAuLbAuPZyw7NbAp52CXiOgvgoKz5DhS9Iq6ZpRaeGxVxX8oEU8ZH7fFSeWh8lVzh49BcR1BIh8R8GxrUOW9cEtq78iloilIFHZnzGAgfLcTgFRSLl2F1Ov38iYW03V9B36ZcsyY/4ID5EYJ7bkTwfc85zJ7222w0+3HvxZP7DYOuqBVtXtuTwyIyPI2CgZJkKM8I7miLFDL2cg3EV+IgsU2IoMJAiPnKfz0RAnps589znfdMV4iOkFw/z4ipsfzJh+5MrDzwfl+P5B1nx4V32peh5WjkSxKx5ysGpcOrSUmQgRXzW63zGJab5WfM8s8ePNn30JxHYEsEB45q54x3sXFqwc+kLqkwdD89hJjwy40MluSij6yY2Z9xE4iNyncdWaCDFwVru8/EkzHOSkjtMv1+bPl7gI7QXT7C+ozMCpMPuBZEInnXCx+fUfTQOIVeSxVangnUeV7GBFPGR+3xkfSrXE/Jcz4FPJU3ggs0F7FNxuxct2D2f8IWnVwQeCs/frws+0QtoxKFPuxnetfklfpcofES9N1F2gwHig/hUlecepzw3wjHDz7PGqU0ffycV9+JxgzUeZoT2zk3YG3olevGUhYfCi7XD5+4FaocXqVlgYNVLXtwi8BFZnNFQcCBFfNbrfJLyfBJOp5kFb6ByXfva9EkUn0pbIkxg55J9PWh/OIL9oV+iMnV+eF68X8S67HYrApIh+BxNAZ9d1DqPpehAioM14pMG0kjEdxDBhzs8k5v3eJJ78fiw82t9h209aP9Mh4OzccXwUHjxTlZ8ZCm54Ucu0pbk+Ig6bIUHUhys5T4fmTqWcsvzEB8hTzzmr/d4tj9NGMrleLB7wb4edHBqwMGpww+eD2nwUHgpLT6y9vZww8f31prg4yg+kCI+cp+PrJVMvBDGVkF8/iCCevGYK+/xZFemdmDvnHkaB9qDIbQHHkNLhDLwyIyPrsjAbDUYH4/zBgPEB/GpssUHzxtOKx8+Txf4cG8CZya/x5PZEsGG/SFzQkNnQKDT9wXBQ2fy4qNStVuvIEKy4zNswECK+Mh9Po3M8xCfIvBkVqaOLyy6c7H8Hk9y1YJgcwFhB6ivQ7dvp1SmTtnRlgbP2yBkxke1Ph9uzk0KsuMzQXwQH+xiGouQmYHPN5ILHvaWCGb6ezznrXCaLasytQcHp8x3l9DtmdDtORzhoTPzreydTMdUvYM0aM1niPggPgoXGBV5jJPxeTbHhzM8lPVdntX3eBJ78TjQHrBvzT48seDwxOMAjwr4iHxbX+RhNwQfkes+iA/iI7LIaFXrvnosPimVqct0H831D4P9ocPYi4f9BdWjEx2OPnopL4+ywENn5hsV8NEbCpAqW63HiA/ig3meOt2+BJAGz74SvvDc7GgzGdExYX/oMlSmdqAzMHLAMywMj7kED529UgKfxYXpKHhhjhvSSMtAfBCfivJcxScgexUf/vBk4gN7wxbsDycMLRE8aA+sHNNtBhydOBnlcvLAoxI+Ks8Nmw3Ax0V8EB/Mc7b1UQ02AnxYC4QywxPsZDMT1nh02BuSeamcVHh8aA8ItAc6Izo6HJ6MGeq0rcAzS4eHzl4dq4bPos6SSk9BXkNaCI8QH8Sn4l1wSua5BhtfSI7K1PHw7MQ2gTNjnnaslc0F8QVC7ZybC0ZweOLngudlEjxv7sKjKj7RwVuVi9NqAD4+5xJDiA/i08g8n+PDH54lfMIdbQ5DSwQX2qdmDnTM2B1tfOGhs9dK4xO9OG3J3xWYNAAfyrncDuKD+OSd8ZA9z905PpsLfLjCEzSBM+dTbOc2Qy8eH9qnOdZ1ei04PJnkaIlQBh46e/26CfhEFystiRcsm4AP5fjuD+KD+JSp/SgrRLoGm59JwZYIyXXa5t1Hg0Zw/jI6sfAQaJ+yret0ezoc9kjOXjxx5XLywNM0fOKKFo4l2r5pNgQfXk3lEB/Eh9fMB5Epz2/x4QtPTNWCFXgcODhlX9fp9iw47PkFWyKUgYfOjpXEZ1Sw8dviInVqumOyGoIP5fTuD+KD+PDOc02CPCdzfKqFJyiXY+ZAJyiX45boxVMWHjo7fqXqVmuPQ+K0Kn46Ig3Ch8fAhfggPmnwLJ6ylctzDYwAnyR4PvGEx4eDs1EOdFrQ7dkcK1Nnw/M6Fh7V8LES7sB5lX9phRe9h/iwL64iPohPBT1+bI55vlgbdgXic00Yy+Vk9eJJKxAadB9lXNcJqlP3CHR7fjXwHGfBoxI+RsojtB8O7DxrkI0bgo8n+i4P8UF8FM7zkTh8xMHjwMEZe0mcbt+Cbs/j3IunLDx09kYJfFhLrvscu4xqAgbuqvHxKypX0kJ8EB9OTyReDXnu8sdnK8BHCDzsU2ydvgHdvsO/F08MPK9yw0Nnb0zZ8SlabHASPlrrJf4u78XKKjcc+JF6bKK7RTprhE/d62qqnw9vBMrmuZCbTA22rkh+eM5ZptpMBnR06AQN4O52H+Xai6cEPOYiZMdnwmlwJOFccovxSWtSwUAiEh+rgumFtL+H+CA+efDh0c3UzZnnuqAuqsNbfPjCk4kPdPrz1tfyw0Nnb6XGR2QjOTdM5LshcjeMXhE+4xr6IhV59wfxQXxE3xjVkeetOT5p8OwWgocmbaeGTn8Inb4HnQAdJeChs7cviUI721Q+3IoqHEwyFnNFHjbig/jkxKdpee7Ny+tsfyIplakLwHNTp81cRmfQgk7f+YVOFjxHJ5RzS4T4d3juwvMmFh5Z8TFo845xBfiwdB0dVzxYIj6ITxI+huR12grfgEXw4QrPDT5BSwToDMY36KgHj4z4NPGCpAlz0LzxcWraSLFy54f4ID4Z+OgNzXMjgg93eIImcCa0ByPoDHyR8MzEw0Nn716QBuxsk/1wKurn45R4iY/nQRAfxCcFn8bnuQY7l4QNnszK1HfbXvvQGdBEePKUy+FTmbooPLLh49BmHoZk+FTxXRuID+KTgI/d0Dw34/HhBw+VEp7jLHhexsEjEz5NvRsaZxRArAuflgTv/iA+64lPE/N8aaPPLT4ITxI8dPb+uWzTbk26K3IzNgDUiU+0SKuoY4T4ID4x+GhNz3MNdi6IWHh6HOB5Vyc8suET3X6p+mIky3svdeOjCa79lvUdID7ri89i7bEJeb4yxazBbhQf5l48EXgG8fB0S8DDvyVCGXhkxWcxLeQ06YKUFB/R9eUmiA/ik4CPVlHtwcrzPIIPwpMAj8z4RO+OPIUuSDfHm/4y4FPFFIiJ+CA+CfhEc8FVLM8TbzBDfOqCp5JePNnwvEuD54jOPhyp0lLBUgChcc1PHY5ERVSjR9LLr4gP4qNqnqfeYGqwd04Yy+WswtOpG57jKuBRCZ/ok5Bsj+kO4zSbrPhUUXiUID6IT87ckDHPmSp4RPBBeBLgURGfu11H63xUn5TshyITPnW8+4P4ID4sT+V157mTN89DfHjDI1UvnrSXR1ngobMPh6ricxciK1y7EP3I7obJwKORlWz4GBV8d4gP4lO2/bX0ea7B3pDIB4+QytTF4Pl4GEQT8Im7SM1wqscOE9YreAFOwt9jcm7fG/2cvMLg8JkMzp/pboj8W3oN5yM69Iadj6x5Hu35VTrPNdhf4MMKT3/d4GkqPmUGWGMNvw8MDMxzjhHiEwNPe53hOYzCQ2cfuwQvUgwMDAyu+JwRrvDI2RIhHZ4PqfDQ2Qnig4GBgcEfn6J12tYDHsQHAwMDgzs+BwE+9cAzqxye50XgobOTDuKDgYGBwRefU6JMZep64EF8MDAwMDjH/zpVKHGQHDUGAAAAAElFTkSuQmCC",
+    "headers" : {
+      "Date" : "Sun, 09 Aug 2020 14:56:03 GMT",
+      "Content-Type" : "image/png",
+      "Set-Cookie" : "__cfduid=ded70cb615077edc51cc81a2a3d1a42e41596984963; expires=Tue, 08-Sep-20 14:56:03 GMT; path=/; domain=.www.pluralsight.com; HttpOnly; SameSite=Lax; Secure",
+      "Cache-Control" : "max-age=31536000",
+      "Cf-Bgj" : "imgq:85,h2pri",
+      "Cf-Polished" : "origSize=6736, status=vary_header_present",
+      "ETag" : "\"1a50-5ac4dfdb473da\"",
+      "Expires" : "Sat, 07 Aug 2021 18:44:42 GMT",
+      "Last-Modified" : "Fri, 07 Aug 2020 18:44:12 GMT",
+      "Strict-Transport-Security" : "max-age=300; includeSubDomains; preload",
+      "Vary" : "Host, Accept-Encoding",
+      "X-Content-Type-Options" : "nosniff",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "X-XSS-Protection" : "1",
+      "CF-Cache-Status" : "HIT",
+      "Age" : "159081",
+      "Accept-Ranges" : "bytes",
+      "cf-request-id" : "047551ca2f000069917b8cc200000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "5c025256bb126991-BOM"
+    }
+  },
+  "uuid" : "319ae123-d00b-4753-b587-337cc027a1d5",
+  "persistent" : true,
+  "insertionIndex" : 8
+}

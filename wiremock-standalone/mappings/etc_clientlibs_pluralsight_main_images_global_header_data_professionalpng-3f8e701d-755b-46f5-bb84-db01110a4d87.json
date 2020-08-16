@@ -1,0 +1,38 @@
+{
+  "id" : "3f8e701d-755b-46f5-bb84-db01110a4d87",
+  "name" : "etc_clientlibs_pluralsight_main_images_global_header_data_professionalpng",
+  "request" : {
+    "url" : "/etc/clientlibs/pluralsight/main/images/global/header/data_professional.png",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAABsFBMVEUAAAD19fXv7+/4+PiysrL09PS1tbWmpqa2trb29va/v7/S0tL39/eysrLAwMCzs7O0tLTFxcW6urqfn5/Y2NiwsLCysrK1tbWpqamzs7PNzc3BwcGxsbGzs7O0tLSzs7OwsLCysrK8vLyxsbG3t7e3t7eysrLDw8PExMS1tbXNzc3h4eHPz8/MzMzW1tbHx8fOzs6zs7Ovr6+2trbBwcG+vr6vr6+1tbW0tLTAwMC1tbW/v7/AwMC2trbGxsa5ubm8vLy6urrLy8vIyMjExMSjo6Ourq62trbLy8u/v7+0tLSvr6+ysrK0tLS9vb27u7u2trawsLC0tLS3t7e2tra0tLS1tbW2trbCwsKurq64uLiurq62trazs7O5ubnJycmzs7PDw8Orq6vIyMi5ubnIyMjZ2dm/v7+qqqrAwMC5ubnY2NjExMSurq6xsbG1tbW/v7++vr6tra2pqam8vLzIyMixsbGsrKy7u7vAwMDAwMDLy8u/v7/ExMS+vr63t7e5ubnQ0NDNzc3AwMCnp6fR0dHGxsbAwMC8vLzr6+ulpaX///+ysrKtra24uLivr6+CzwxrAAAAjHRSTlMABwMF3gvBJV4BwxoI6bOliVxaIw7W0a2enCUR9tnGwMCvpqJ8cG9gUU4oIyAeHBwX4NrVycG/tKejnZmWjWhjVUE/NzQsKhwaCu7i2svJyMjHwLq2q6mgnpqYk4WDc2NiWllWT0w8NDMuKyke9eLZxreupKGem5uWhn1wcGxqZ2ZRTU1DQj85OSYiFRZYpn0AAAI5SURBVEjH7dLXUxpRFAbwb+8iAi4gChgBQaqQ0DWASJEqWFLssXeNmt5775j8y7kLhHEmGTaQGR8yfA/fwMNvzs65B6200sr/GumemjZJF2l9VKmOAHB7LODd3txlhDB7+zxt5ko7MCZaVJhA3VAbEJMtBlKC+GIZiynuFuNCCECHjOJhJ5Q7DeL+09j1l9jI48EP61d5fIliy5O0URgrdDye7QaKjxWKNR7fodipUFh8EIqe0JLSroXopTi7EOnpP3xJiSBy91qVnwB2ZAxgVpSRJAD/A452Pib48SrxW0tnddtfb715xm/bx28bB2IiiK/B0fnbO3O0czOCeOAPuCDTuba2NmYglO3gsnG1dtvLERMA3XhffzislY8KYbUqse4B2Jd6gOwmEhmgXbNUvpudvjhBg1FrbajEO2lvFNvMtZ/XJwQOlGWYWqNDDVajCYVm3wFIDvvnHHVt9rJsaBT7tDcBLHVBd8NgMJQ0DHDve04yX/+pzO54JyRm99MRAL0SHEwceb/cFLUB50r599P1j+QR7BQ/xECsgg8n1eBEFZyT9NSfbOVsFCu5F9XJjPYz2qo4r6y/7nSfafAVUrSfA4gmgVXzL3yyEfTUxVK/p0D47iD82xQAvcbxLVDGP+R2NJrD4PiJloDcLclt5LhR7YvK5fGFqaku93SYHnijOXatvU4VgRWtU9SF5sLOR5ANNKu5nl5km57N9Fix/086Y8g0q+cWovfVaHq2hUHTYVm00soZ5Sc+nVRTTuvVygAAAABJRU5ErkJggg==",
+    "headers" : {
+      "Date" : "Sun, 09 Aug 2020 14:56:05 GMT",
+      "Content-Type" : "image/png",
+      "Set-Cookie" : "__cfduid=d6f3376d6673bbe343ab021bfb633b2a81596984965; expires=Tue, 08-Sep-20 14:56:05 GMT; path=/; domain=.www.pluralsight.com; HttpOnly; SameSite=Lax; Secure",
+      "Cache-Control" : "max-age=31536000",
+      "Cf-Bgj" : "imgq:85,h2pri",
+      "Cf-Polished" : "status=not_needed",
+      "ETag" : "\"4c6-5ac4dfe28a20e\"",
+      "Expires" : "Sat, 07 Aug 2021 18:44:46 GMT",
+      "Last-Modified" : "Fri, 07 Aug 2020 18:44:20 GMT",
+      "Strict-Transport-Security" : "max-age=300; includeSubDomains; preload",
+      "Vary" : "Host, Accept-Encoding",
+      "X-Content-Type-Options" : "nosniff",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "X-XSS-Protection" : "1",
+      "CF-Cache-Status" : "HIT",
+      "Age" : "159079",
+      "Accept-Ranges" : "bytes",
+      "cf-request-id" : "047551d021000069917b921200000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "5c0252603d9d6991-BOM"
+    }
+  },
+  "uuid" : "3f8e701d-755b-46f5-bb84-db01110a4d87",
+  "persistent" : true,
+  "insertionIndex" : 9
+}

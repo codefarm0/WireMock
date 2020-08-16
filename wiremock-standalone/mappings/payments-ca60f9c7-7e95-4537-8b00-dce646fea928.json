@@ -1,0 +1,28 @@
+{
+  "id" : "ca60f9c7-7e95-4537-8b00-dce646fea928",
+  "name" : "payments",
+  "request" : {
+    "url" : "/payments",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"cardNumber\":\"1111-1111-1111-111\",\"cardExpiryDate\":\"2020-08-09\",\"amount\":200.12}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"paymentId\":\"a4fff1ad-872b-40e9-ad8f-f5d81cf7ec7b\",\"paymentResponseStatus\":\"FAILED\"}",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "Date" : "Sun, 09 Aug 2020 15:20:44 GMT",
+      "Keep-Alive" : "timeout=60"
+    }
+  },
+  "uuid" : "ca60f9c7-7e95-4537-8b00-dce646fea928",
+  "persistent" : true,
+  "scenarioName" : "scenario-2-payments",
+  "requiredScenarioState" : "scenario-2-payments-2",
+  "newScenarioState" : "scenario-2-payments-3",
+  "insertionIndex" : 12
+}

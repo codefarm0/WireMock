@@ -5,6 +5,7 @@ import com.greenlearner.ticketbookingservice.dto.PaymentUpdateResponse;
 import com.greenlearner.ticketbookingservice.dto.TicketBookingResponse;
 import com.greenlearner.ticketbookingservice.service.TicketBookingService;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
@@ -23,12 +24,12 @@ public class TicketBookingController {
     }
 
     @PostMapping("/bookTicket")
-    TicketBookingResponse payForTicket(final TicketBookingPaymentRequest ticketBookingPaymentRequest){
+    TicketBookingResponse payForTicket( @RequestBody TicketBookingPaymentRequest ticketBookingPaymentRequest){
         return ticketBookingService.payForBooking(ticketBookingPaymentRequest);
     }
 
     @PostMapping("/updatePayment")
-    PaymentUpdateResponse updatePaymentDetails(final TicketBookingPaymentRequest ticketBookingPaymentRequest){
+    PaymentUpdateResponse updatePaymentDetails(@RequestBody TicketBookingPaymentRequest ticketBookingPaymentRequest){
         return ticketBookingService.updatePaymentDetails(ticketBookingPaymentRequest);
     }
 

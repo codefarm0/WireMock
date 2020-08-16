@@ -1,0 +1,6 @@
+server:
+  port: 8081
+pay:
+  money:
+    host: localhost
+    port: 8080
