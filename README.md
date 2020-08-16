@@ -19,12 +19,16 @@ Demo with Spring Boot APIs
 
 🎯 [Fault simulation with WireMock]
 
-🎯 [HTTPS with WireMock]
+🎯 [Timeout & Delay simulation with WireMock]
 
 🎯 [Stateful behavior of WireMock]
 
 🎯 [Response templating with WireMock]
 
 🎯 [MockLab - WireMock in the Cloud]
+
+🎯 [HTTPS with WireMock]
+
+
 
  
