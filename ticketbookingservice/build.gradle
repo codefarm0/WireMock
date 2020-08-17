@@ -18,7 +18,7 @@ dependencies {
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}
-//	testCompile "com.github.tomakehurst:wiremock-jre8:2.27.0"
+	testCompile "com.github.tomakehurst:wiremock-jre8:2.27.0"
 	testCompile group: 'com.github.tomakehurst', name: 'wiremock-standalone', version: '2.27.0'
 
 }
