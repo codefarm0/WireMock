@@ -17,9 +17,9 @@ Demo with Spring Boot APIs
 
 🎯 [Selective Proxying](https://youtu.be/DXmC-M-qY2g)
 
-🎯 [Fault simulation with WireMock]
+🎯 [Fault simulation with WireMock](https://youtu.be/fkfAwLrrkOE)
 
-🎯 [Timeout & Delay simulation with WireMock]
+🎯 [Timeout & Delay simulation with WireMock](https://youtu.be/5jyL0yLu308)
 
 🎯 [Stateful behavior of WireMock]
 
