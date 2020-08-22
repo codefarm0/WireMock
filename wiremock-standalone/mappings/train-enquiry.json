@@ -1,0 +1,41 @@
+{
+  "request": {
+    "urlPath": "/trains",
+    "queryParameters": {
+      "from": {
+        "matches": ".*"
+      },
+      "to": {
+        "matches": ".*"
+      }
+    },
+    "method" : "GET"
+  },
+  "response": {
+    "jsonBody": {
+      "available": [
+        {
+          "from": "{{request.query.from}}",
+          "to": "{{request.query.to}}",
+          "at": "{{now}}",
+          "price": "INR{{randomValue length =3 type='NUMERIC'}}"
+        },
+        {
+          "from": "{{request.query.from}}",
+          "to": "{{request.query.to}}",
+          "at": "{{now}}",
+          "price": "INR{{randomValue length =3 type='NUMERIC'}}"
+        }        
+      ],
+	        "cancelled": [
+        {
+           "from": "{{request.query.from}}",
+          "to": "{{request.query.to}}",
+          "at": "{{now}}",
+          "cancellation-id": "{{randomValue type ='UUID'}}",
+          "price": "INR{{randomValue length =3 type='NUMERIC'}}"
+        }     
+      ]
+    }
+  }
+}

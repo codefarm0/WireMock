@@ -1,0 +1,14 @@
+{
+"scenarioName" : "book-shopping",
+"requiredScenarioState" : "cart-has-books",
+  "request": {
+    "urlPath": "/cart-items",
+    "method" : "GET"
+  },
+  "response": {
+    "status" : 200,
+    "jsonBody": {
+      "cart" : ["Microservices Architecture23 by X"]
+    }
+  }
+}

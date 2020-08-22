@@ -1,0 +1,11 @@
+{
+"scenarioName" : "book-shopping",
+"newScenarioState" : "Started",
+  "request": {
+    "urlPath": "/cart-items",
+    "method" : "DELETE"
+  },
+  "response": {
+    "status" : 200
+  }
+}
